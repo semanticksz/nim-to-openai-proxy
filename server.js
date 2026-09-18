@@ -86,8 +86,8 @@ const MODEL_MAPPING = {
   'google-light': 'google/gemma-4-31b-it',
   'google-lightest': 'meta/muse-glimmer-30b', // was google/gemma-2b
   'google-lighter': 'poolside/laguna-xs-2.1', // was google/gemma-3-4b-it
-  'glm-5-3': 'z-ai/glm-5-3',
-  'glm-5-3-flash': 'z-ai/glm-5-3-flash'
+  'glm-5.3': 'z-ai/glm-5.3',
+  'glm-5.3-flash': 'z-ai/glm-5.3-flash'
 };
 
 // Used when an unrecognized alias is requested. Must point at a live model.
